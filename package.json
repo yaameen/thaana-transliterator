@@ -1,0 +1,17 @@
+{
+  "name": "thaana-transliterator",
+  "description": "A simple module to transliterate thaana (latin) to unicode",
+  "author": {
+    "name": "Yameen Mohamed",
+    "email": "yaamynu@gmail.com"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^7.2.0"
+  }
+}
